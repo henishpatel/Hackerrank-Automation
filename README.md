@@ -12,8 +12,8 @@ Application is able to login provided username and password, and add multiple mo
 Whole process is done using puppeteer library by using it's default chromium browser.
 
 # Key Learning
-async await function
-Use of CSS selector
+-async await function
+-Use of CSS selector
 
 ## To Run this project on Local machine
 First fork this to your profile, then clone it to your desktop
