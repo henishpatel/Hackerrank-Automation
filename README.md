@@ -1,5 +1,5 @@
 # Hackerrank-Automation
-A web automation application which has ability to add multiple moderators into hackerrank contests
+I wrote a script using puppeteer which automates the process of login and adding multiple moderators to multiple contests in hackerrank. The purpose of writing this script was to get familiar with automation and async-await in JavaScript, while having a little fun. 
 
 # Tech-Stack Used
  - JavaScript
